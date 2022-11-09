@@ -2,6 +2,27 @@
   min-height: 898px;
 }
 
+.about{
+display: block;
+align-items: center;
+justify-content: center;
+}
+.about h2{
+  display:block ;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  font-size: 3.4rem;
+  text-align: center;
+}
+.about p{
+  display: block;
+  padding: 30px 50px;
+  font-size: 1.3rem;
+  
+}
+
+
 .u-section-1 .u-text-1 {
   font-size: 3rem;
   font-weight: 700;

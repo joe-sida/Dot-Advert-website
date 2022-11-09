@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/vccvv-min.jpg");
+  background-image: url("../images/dot-advert.jpg");
   background-position: 50% 50%;
 }
 
@@ -26,6 +26,7 @@
   font-size: 1.125rem;
   width: 568px;
   font-weight: 400;
+  color: #c3cfc9;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
